@@ -7,7 +7,7 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./operacion.component.css']
 })
 export class OperacionComponent {
-  num1:number;
+  num1:number = 0
   num2:number = 0
   res:number = 0
 
@@ -28,7 +28,8 @@ export class OperacionComponent {
   }
 
 
-  constructor() { }
+  constructor() {
+   }
 
   ngOnInit(): void {
   }   
