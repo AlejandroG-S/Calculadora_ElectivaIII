@@ -1,23 +1,18 @@
 .contenedor{
-    border:1% solid black;
-    width:15%;
+    position: absolute;
+    top: 25%;
+    left: 38%;
+    margin: 2%;
+    border: 10px solid black;
+    width:20%;
     background:#B4BDD1;
 }
 
 .pantalla{
+    text-align: center;
     border: 1%;
 }
 
 .botones{
-    position: absolute;
-}
-
-.boton{
-    position: sticky;
-    padding: 10%;
-    height: 4%;
-    width: 4%;
-    border: 2%;
-    top: 2%;
-    
+    text-align: center;
 }
