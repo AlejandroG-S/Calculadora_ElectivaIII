@@ -1,0 +1,23 @@
+.contenedor{
+    border:1% solid black;
+    width:15%;
+    background:#B4BDD1;
+}
+
+.pantalla{
+    border: 1%;
+}
+
+.botones{
+    position: absolute;
+}
+
+.boton{
+    position: sticky;
+    padding: 10%;
+    height: 4%;
+    width: 4%;
+    border: 2%;
+    top: 2%;
+    
+}
